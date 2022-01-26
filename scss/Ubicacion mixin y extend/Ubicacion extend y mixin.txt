@@ -1,0 +1,4 @@
+El extend fue aplicado en el renglon Numero 42 de __header.scss
+
+y el mixin en el renglon numero 116 de __main.scss
+

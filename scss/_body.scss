@@ -1,0 +1,30 @@
+/* body index*/
+.img-index {
+	img {
+		width: 100%;
+		margin-top: -8px;
+	}
+}
+/*body galeria */
+.body__galeria{
+background-color: #ffc107;}
+/*body Formulario */
+.body__form {
+    background: #181818;
+    color: #fff;
+    line-height: 1.6;
+    font-family: 'Quicksand', sans-serif;
+    padding: 0 1.5em;
+}
+/*body Restaurante */
+.body__resto {
+	background-color: #fff;
+}
+/* Menu Resto */
+.body__menu {
+	font-family:"reboto", sans-serif;
+	background:hsl(210, 36%, 96%);
+	color:hsl(209, 61%, 16%);
+	line-height: 1.5;
+	font-size: 0.875rem;
+  }
